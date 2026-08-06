@@ -8,79 +8,164 @@ Repositório oficial da disciplina **Engenharia do Produto e Processo**, ofertad
 
 ---
 
-## 🎯 Sobre a disciplina
+## 🎯 Sobre a Disciplina
 
-A disciplina de Engenharia do Produto e Processo tem como objetivo desenvolver a capacidade dos estudantes de identificar problemas reais e transformá-los em soluções de engenharia tecnicamente viáveis, economicamente atrativas e ambientalmente responsáveis.
+A disciplina de Engenharia do Produto e Processo propõe uma experiência de aprendizagem baseada no desenvolvimento de soluções para problemas reais.
 
-Durante o semestre, os estudantes trabalharão em equipes utilizando **Aprendizagem Baseada em Problemas (PBL)** e **Aprendizagem Baseada em Projetos**, aplicando os conhecimentos da disciplina no desenvolvimento de um produto.
+Durante o semestre, cada estudante será responsável por identificar um problema ou oportunidade, investigar suas causas e necessidades e utilizar conhecimentos de Engenharia para desenvolver uma solução na forma de produto.
+
+O desenvolvimento ocorrerá de maneira progressiva, integrando conceitos de **Engenharia do Produto, Engenharia de Processos, Qualidade, Produção, Viabilidade Econômica e Sustentabilidade**.
+
+A disciplina utiliza princípios de **Aprendizagem Baseada em Problemas (PBL)** e **Aprendizagem Baseada em Projetos**, colocando o estudante como protagonista do processo de investigação e desenvolvimento.
 
 ---
 
 ## 🚀 O Desafio
 
-> **Como transformar um problema real em um produto tecnicamente viável, economicamente atrativo, sustentável e capaz de ser produzido em escala?**
+> **Como transformar uma necessidade real em um produto que possa ser projetado, produzido, utilizado e melhorado de forma técnica, econômica e sustentável?**
 
-Cada equipe deverá identificar um problema ou oportunidade e desenvolver uma solução ao longo do semestre.
+O projeto será **individual** e desenvolvido durante todo o semestre.
 
-O desenvolvimento deverá percorrer diferentes etapas da Engenharia do Produto e Processo:
+Cada estudante deverá observar seu entorno, identificar problemas ou oportunidades e selecionar uma situação que possa ser investigada sob a perspectiva da Engenharia.
 
-**Problema → Necessidades → Requisitos → Conceito → Protótipo → Processo → Testes → Validação → Produto**
+A primeira missão não será criar um produto.
+
+Será encontrar:
+
+> **Um problema que mereça uma solução de Engenharia.**
 
 ---
 
-## 🧩 Desenvolvimento do Projeto
+## 🔎 Do Problema ao Produto
 
-O projeto será desenvolvido progressivamente por meio de seis etapas:
+O desenvolvimento seguirá uma jornada progressiva:
 
-| Gate | Etapa |
+**Problema → Investigação → Necessidades → Requisitos → Alternativas → Conceito → Protótipo → Testes → Processo Produtivo → Qualidade → Viabilidade → Validação → Produto**
+
+O produto final deverá ser consequência das decisões de Engenharia realizadas durante essa jornada.
+
+---
+
+## 🧭 Problem Hunt
+
+No início da disciplina, cada estudante realizará uma busca por problemas e oportunidades em seu entorno.
+
+Alguns eixos podem servir como inspiração:
+
+- produtividade e redução de desperdícios;
+- ergonomia e segurança;
+- logística e armazenagem;
+- sustentabilidade e economia circular;
+- embalagens;
+- qualidade e confiabilidade;
+- automação e tecnologia;
+- melhoria de produtos existentes;
+- produtos para o cotidiano;
+- desenvolvimento regional.
+
+Os eixos são apenas referências.
+
+O estudante poderá investigar outros contextos desde que consiga demonstrar a existência e relevância do problema e sua relação com a Engenharia do Produto e Processo.
+
+---
+
+## 🚧 Gates de Desenvolvimento
+
+O projeto será acompanhado por seis pontos de validação.
+
+| Gate | Desafio |
 |---|---|
-| 🔎 Gate 1 | Problema e Oportunidade |
-| 💡 Gate 2 | Conceito do Produto |
-| 🧪 Gate 3 | Protótipo |
-| ⚙️ Gate 4 | Processo Produtivo |
-| 📊 Gate 5 | Engenharia e Viabilidade |
-| 🏆 Gate 6 | Produto Final |
+| 🔎 **Gate 1 — Problem Discovery** | Existe um problema real que merece ser resolvido? |
+| 💡 **Gate 2 — Product Concept** | A solução proposta responde adequadamente ao problema? |
+| 🧪 **Gate 3 — Prototype** | O conceito pode ser transformado em algo funcional? |
+| ⚙️ **Gate 4 — Process Engineering** | Como esse produto poderia ser produzido? |
+| 📊 **Gate 5 — Validation & Viability** | O produto funciona e apresenta viabilidade técnica, produtiva e econômica? |
+| 🏆 **Gate 6 — Product Release** | O produto está preparado para ser apresentado e defendido? |
 
-Cada Gate representa um ponto de validação do projeto antes que a equipe avance para a próxima etapa.
+Os Gates funcionam como momentos de revisão.
+
+Um projeto poderá retornar, ser modificado, testado novamente e submetido a uma nova avaliação.
 
 ---
 
-## 🛠️ O que será desenvolvido
+## 🔄 Engenharia é Iteração
 
-Ao longo do projeto serão trabalhados conceitos relacionados a:
+Não esperamos que a primeira solução seja perfeita.
 
-- Desenvolvimento de Produtos
-- Engenharia de Processos
-- Requisitos do Produto
-- Seleção de Materiais
-- Prototipagem
-- Processos Produtivos
-- Qualidade
-- FMEA e Gestão de Riscos
-- Lean Manufacturing
-- Custos e Viabilidade Econômica
-- Sustentabilidade e Ecodesign
-- Escalonamento Industrial
-- Inovação
+Durante o semestre, o produto deverá evoluir:
+
+**Conceito → Protótipo v0.1 → Testes → Protótipo v0.2 → Validação → Produto v1.0**
+
+Erros, testes, mudanças e melhorias fazem parte do processo de desenvolvimento.
+
+As decisões e a evolução do projeto deverão ser documentadas ao longo da disciplina.
+
+---
+
+## 🏭 Produto + Processo
+
+Desenvolver o produto é apenas parte do desafio.
+
+Também será necessário responder:
+
+> **Como esse produto poderia ser produzido?**
+
+Ao longo da disciplina serão considerados aspectos relacionados a:
+
+- requisitos do produto;
+- materiais;
+- processos de fabricação;
+- prototipagem;
+- planejamento do processo produtivo;
+- qualidade;
+- análise de riscos;
+- Lean Manufacturing;
+- custos;
+- produtividade;
+- sustentabilidade;
+- escalonamento;
+- inovação.
+
+O objetivo é desenvolver não apenas **um produto**, mas compreender a **Engenharia necessária para produzi-lo**.
 
 ---
 
 ## 🏆 Product Day
 
-Ao final da disciplina será realizado o **Product Day – Engenharia do Produto e Processo**.
+Ao final da disciplina será realizado o:
 
-Cada equipe deverá apresentar o produto desenvolvido durante o semestre, demonstrando não apenas **o que foi criado**, mas também **como o produto poderá ser produzido**.
+# PRODUCT DAY — Engenharia do Produto e Processo
 
-As equipes apresentarão seus protótipos, processos produtivos, resultados de testes, análises de qualidade, custos, sustentabilidade e viabilidade industrial.
+Cada estudante apresentará seu produto e defenderá as decisões tomadas durante seu desenvolvimento.
+
+A apresentação deverá demonstrar:
+
+**Problema → Evidências → Requisitos → Solução → Protótipos → Testes → Processo Produtivo → Qualidade → Custos → Sustentabilidade → Produto Final**
+
+O objetivo não é apresentar apenas algo que funciona.
+
+O estudante deverá demonstrar **a Engenharia existente por trás do produto**.
 
 ---
 
 ## 📚 Organização do Repositório
 
-Este repositório concentra materiais, orientações, desafios, templates e documentação utilizados durante a disciplina.
+Este repositório será utilizado como ambiente de apoio e gestão da disciplina.
 
-A documentação será atualizada ao longo do semestre conforme o avanço dos projetos.
+Aqui serão disponibilizados:
+
+- orientações;
+- desafios;
+- Gates;
+- materiais das aulas;
+- templates;
+- critérios de avaliação;
+- documentação do Product Day.
+
+Cada estudante também utilizará o GitHub para documentar a evolução de seu projeto durante o semestre.
 
 ---
 
-> **Na Engenharia, uma boa ideia só se torna um produto quando conseguimos projetá-la, produzi-la, testá-la e melhorá-la.**
+## 💡 Princípio da Disciplina
+
+> **Não estamos procurando a ideia mais complexa. Estamos procurando a melhor aplicação da Engenharia para resolver um problema real.**
